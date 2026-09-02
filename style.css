@@ -1,4 +1,23 @@
-#imgTV{
-    width: 20px;
-    height: auto;
+h1{
+    color: rgb(80, 35, 131);
+    text-align: center;
+}
+h2{
+    color: rgb(148, 100, 202);
+    padding-left: 40px;
+}
+h3{
+    color: rgb(80, 35, 131)
+}
+p{
+    font-size: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+a{
+    font-size: 20px;
+    background-color: rgb(148, 100, 202);
+    text-decoration: none;
+    padding: 3px;
+    border-radius: 6px; 
 }
